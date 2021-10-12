@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">BootcampOdevler</string>
+    <string name="foodninja">FoodNinja</string>
+    <string name="deliever_fa">Deliever Favorite Food</string>
+    <string name="text">Login To Your Account</string>
+    <string name="by_tapping_">Or Continue With</string>
+    <string name="login_name">Login</string>
+    <string name="forgot_pass">Forgot Your Password?</string>
+    <string name="title_textView">Find Your Favorite Food</string>
+    <string name="input_arama_text">     What do you want to order ?</string>
+    <string name="card_title">Special Deal For October</string>
+    <string name="nearest_text">Nearest Restaurant</string>
+    <string name="view_more_text">View More</string>
+    <string name="res_name">Vegan Resto</string>
+    <string name="min">12 Mins </string>
+    <string name="res2_name">Healthy Food</string>
+    <string name="min2">8 Mins</string>
+    <string name="pop_text">Populer Menu</string>
+    <string name="menu_name">Green Noddle</string>
+    <string name="price">$15</string>
+    <string name="restaurant_name">Noodle Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
